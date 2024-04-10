@@ -12,4 +12,4 @@ jkhan.html: 한진경. 예시. 삭제하거나 confer 폴더로 이동 예정 <b
 MSJ.html : 문수정 - 취미 등록<br>
 HSY.html : 홍서영 <br>
 CSH.html : 최성훈 <br>
-LMH.html : 이민호 
+LMH.html : 이민호 - mbti 입력 및 결과 출력 | img 폴더 업로드 필요함
